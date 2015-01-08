@@ -1,1 +1,6 @@
 node_modules/
+*.sublime-*
+Thumbs.db
+*.sh
+*.sln
+*.v12.suo
