@@ -4,15 +4,19 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "./node_modules/.bin/mocha --reporter spec"
   },
   "repository": {
-    "type": "git",
+    "type": "https",
     "url": "https://github.com/serkomut/split.git"
   },
   "author": "Serol Guzel <serkomut@gmail.com> (https://github.com/serkomut/split)",
   "license": "BSD-2-Clause",
   "bugs": {
     "url": "https://github.com/serkomut/split/issues"
+  },
+  "devDependencies": {
+    "chai": "~1.10.0",
+    "mocha": "~2.1.0"
   }
 }
