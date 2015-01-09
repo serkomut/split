@@ -1,5 +1,5 @@
 {
-  "name": "split",
+  "name": "spliter",
   "version": "0.1.0",
   "description": "",
   "main": "spliter.js",
@@ -10,7 +10,7 @@
     "type": "https",
     "url": "https://github.com/serkomut/split.git"
   },
-  "author": "Serol Guzel <serkomut@gmail.com> (https://github.com/serkomut/split)",
+  "author": "Serol Guzel <serkomut@gmail.com> (https://github.com/serkomut)",
   "license": "BSD-2-Clause",
   "bugs": {
     "url": "https://github.com/serkomut/split/issues"
