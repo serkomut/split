@@ -1,19 +1,24 @@
 {
-  "name": "spliter",
-  "version": "0.1.0",
-  "description": "",
-  "main": "spliter.js",
-  "scripts": {
-    "test": "./node_modules/.bin/mocha --reporter spec"
-  },
-  "repository": {
-    "type": "https",
-    "url": "https://github.com/serkomut/split.git"
-  },
-  "author": "Serol Guzel <serkomut@gmail.com> (https://github.com/serkomut)",
-  "license": "MIT",
-  "devDependencies": {
-    "chai": "~1.10.0",
-    "mocha": "~2.1.0"
-  }
+    "name": "spliter",
+    "version": "0.1.0",
+    "description": "",
+    "main": "spliter.js",
+    "scripts": {
+        "test": "./node_modules/.bin/mocha --reporter spec"
+    },
+    "repository": {
+        "type": "https",
+        "url": "https://github.com/serkomut/split.git"
+    },
+    "author": "Serol Guzel <serkomut@gmail.com> (https://github.com/serkomut)",
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/serkomut/split/blob/master/LICENSE-MIT"
+        }
+    ],
+    "devDependencies": {
+        "chai": "~1.10.0",
+        "mocha": "~2.1.0"
+    }
 }
