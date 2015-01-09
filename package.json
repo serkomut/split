@@ -12,9 +12,6 @@
   },
   "author": "Serol Guzel <serkomut@gmail.com> (https://github.com/serkomut)",
   "license": "BSD-2-Clause",
-  "bugs": {
-    "url": "https://github.com/serkomut/split/issues"
-  },
   "devDependencies": {
     "chai": "~1.10.0",
     "mocha": "~2.1.0"
